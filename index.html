@@ -66,7 +66,14 @@
  <script>
  	$(document).ready(function(){
  		var height=$(window).height()-200;
- 		$(".pulley").height(height);	
+ 		if($(window).width()>=992)
+ 		{
+ 			$(".pulley").height(height);
+ 		}
+ 		else{
+ 			$(".pulley").height(height*0.6);
+ 		}
+ 		
  	});
  </script>
  </body>
