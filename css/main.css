@@ -75,7 +75,7 @@ transform:translateY(-100%);
 	}
 	.pulley .right{
 		display:block;
-		height:100px !important;
+		height:80px !important;
 	}
 	.box{
 		position:absolute;
