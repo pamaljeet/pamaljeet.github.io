@@ -55,6 +55,12 @@ transform:translateY(-100%);
 	right:0;
 		z-index: 1
 }
+	.pulley .right{
+		visibility:hidden;
+	}
+	header>.right{
+		visibility:visible;
+	}
 
 
 @media (max-width:992px){
@@ -65,7 +71,7 @@ transform:translateY(-100%);
 		visibility:hidden;
 	}
 	.pulley .right{
-		visibility:hidden;
+		visibility:visible;
 	}
 	.box{
 		position:absolute;
