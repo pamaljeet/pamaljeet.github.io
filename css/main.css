@@ -106,7 +106,7 @@ transform:translateY(-100%);
 		position:absolute;
 		bottom:60px;
 		background:white;
-		left:50%;
+		left:60%;
 		transform:translateX(-50%);
 }
 .box>img{
@@ -114,7 +114,7 @@ transform:translateY(-100%);
 		position:absolute;
 		bottom:0;
 		width:120px;
-		left:50%;
+		left:60%;
 		transform:translateX(-50%);
 	}
 }
