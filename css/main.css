@@ -105,7 +105,7 @@ transform:translateY(-100%);
 	}
 	.coming{
 		position:absolute;
-		margin-top:30vh;
+		margin-top:20vh;
 		z-index:4;
 	}
 	.coming>img{
@@ -113,7 +113,7 @@ transform:translateY(-100%);
 	}
 	.pulley{
 		
-		margin-top:30vh;
+		margin-top:20vh;
 		height:40vh;
 
 	}
