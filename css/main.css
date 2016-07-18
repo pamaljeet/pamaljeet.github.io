@@ -104,6 +104,7 @@ transform:translateY(-100%);
 	.coming{
 		position:absolute;
 		margin-top:30vh;
+		z-index:4;
 	}
 	.coming>img{
 		padding:0 10vw 0px 10vw;
