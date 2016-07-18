@@ -17,7 +17,7 @@ header{
 
 	bottom:0px;
 	left:60%;
-	transform:translateY(-50%);
+	transform:translateX(-50%);
 	font-size:0.8em;
 	position:absolute;
 	text-align: right;
