@@ -60,7 +60,8 @@
     <script src="js/bootstrap.min.js"></script>
  <script>
  	$(document).ready(function(){
- 		$(".pulley").css("height",($(window).height-200)+"px !important");	
+ 		var height=$(window).height()-200;
+ 		$(".pulley").css("height",height+"px !important");	
  	});
  </script>
  </body>
