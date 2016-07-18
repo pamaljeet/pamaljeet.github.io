@@ -2,7 +2,7 @@
 .box{
 	padding:20px;
 	max-height:100%;
-	z-index:2;
+	z-index:2 !important;
 }
 .icon{
 	background:white;
@@ -11,7 +11,7 @@
 header{
 	height:200px;
 	position:relative;
-	z-index: 2
+	z-index: 1;
 }
 .right>p{
 
@@ -31,7 +31,7 @@ transform:translateY(-100%);
 
 }
 .pulley{
-	z-index: 1;
+	z-index: 2;
 	height:80vh;
 	background:rgba(0,0,0,0.1);
 }
