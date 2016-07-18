@@ -72,7 +72,7 @@ transform:translateY(-100%);
 	}
 	.pulley .right{
 		display:block;
-		height:100px;
+		height:100px !important;
 	}
 	.box{
 		position:absolute;
