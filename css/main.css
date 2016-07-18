@@ -41,6 +41,9 @@ transform:translateY(-100%);
 	z-index: 2;
 	position:absolute;
 }
+.pulley>div>img{
+	max-height:100%;
+}
 .right{
 	background:rgba(150,150,150,1);
 	height:100vh;
