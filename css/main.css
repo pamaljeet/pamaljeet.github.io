@@ -43,6 +43,7 @@ transform:translateY(-100%);
 }
 .pulley>div>img{
 	max-height:100%;
+	margin-top:-0.06%;
 }
 .right{
 	background:rgba(150,150,150,1);
