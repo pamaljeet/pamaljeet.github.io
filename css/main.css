@@ -61,6 +61,12 @@ transform:translateY(-100%);
 	header{
 		height:200px;
 	}
+	header>.right{
+		visibility:hidden;
+	}
+	.pulley .right{
+		visibility:hidden;
+	}
 	.box{
 		position:absolute;
 		top:0;
