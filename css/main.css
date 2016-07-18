@@ -98,7 +98,7 @@ transform:translateY(-100%);
 	
 	.baloon{
 		position:absolute;
-		margin-top:50vh;
+		margin-top:45vh;
 		z-index:3;
 	}
 	.coming{
